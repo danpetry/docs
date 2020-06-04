@@ -26,6 +26,7 @@ Contents:
    integrations
    configuration
    howtos
+   cheatsheet
    reference
    videos
    faq
