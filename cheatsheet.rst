@@ -1,7 +1,7 @@
 .. cheatsheet:
 
-Conan Cheatsheet
-================
+Conan 1.x Cheatsheet
+====================
 
 .. contents::
     :local:
